@@ -1,3 +1,10 @@
+Hi there! I'm Renze.👋
+
+Studying at National Yangming Jiaotong University, in study career has spanned fields from vocational school electronics research to product design field. Extremely high requirements and levels in the field of industrial technology and design.
+
+Check out my Website: Juyue.tw
+
+feel free to ask any questions! 👽
 
 [![](https://raw.githubusercontent.com/RenzeH/RenzeH/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/RenzeH/RenzeH/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/RenzeH/RenzeH/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
