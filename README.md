@@ -4,11 +4,11 @@ Studying at National Yangming Jiaotong University, in study career has spanned f
 
 Check out my studio Website: [JuYue Design - Official Website](Juyue.tw)
 
-And my school club: [NCTU Rewards Crowdfunding Club](https://renzeh.github.io/NRCC)
+and my school club: [NCTU Rewards Crowdfunding Club](https://renzeh.github.io/NRCC)
 
-And Racing car club: [NYCU Vulpes Racing](https://nycuvr.github.io/site/)
+and Racing car club: [NYCU Vulpes Racing](https://nycuvr.github.io/site/)
 
-feel free to ask any questions! 👽
+Feel free to ask any questions! 👽
 
 [![](https://raw.githubusercontent.com/RenzeH/RenzeH/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/RenzeH/RenzeH/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/RenzeH/RenzeH/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
