@@ -2,7 +2,13 @@
 
 Studying at National Yangming Jiaotong University, in study career has spanned fields from vocational school electronics research to product design field. Extremely high requirements and levels in the field of industrial technology and design.
 
+Now work at JuYue co.,Ltd as CEO.
+
 Check out my studio Website: [JuYue Design - Official Website](https://Juyue.tw)
+
+2022 New! project [JerryFriends platform](https://renzeh.github.io/JerryFriends/)
+
+Jerryfriends composed a group of professional partners, hoping to bring this society and system a brand new social matching platform. We hope that students can find like-minded partners on our platform. On this platform, your major should not be buried. we hope to provide a new environment to help partners in need find a team to join, or find like-minded partners.
 
 and my school club: [NCTU Rewards Crowdfunding Club](https://renzeh.github.io/NRCC)
 
