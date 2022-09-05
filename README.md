@@ -4,6 +4,11 @@ Studying at National Yangming Jiaotong University, in study career has spanned f
 
 Now work at JuYue co.,Ltd as CEO.
 
+JerryFriends
+NYCU | ARETE CXII
+NYCU VulpesRacing
+NYCU RewardsCrowdfundingClub
+
 Check out my studio Website: [JuYue Design - Official Website](https://Juyue.tw)
 
 2022 New! project [JerryFriends platform](https://renze1229.github.io/JerryFriends/)
