@@ -4,16 +4,16 @@ Studying at National Yangming Jiaotong University, in study career has spanned f
 
 Now work at JuYue co.,Ltd as CEO.
 
-- JerryFriends
+- Teamie
 - NYCU | ARETE CXII
 - NYCU VulpesRacing
 - NYCU RewardsCrowdfundingClub
 
 Check out my studio Website: [JuYue Design - Official Website](https://Juyue.tw)
 
-2022 New! project [JerryFriends platform](https://renze1229.github.io/JerryFriends/)
+2022 New! project [Teamie platform](https://teamie.tw)
 
-Jerryfriends composed a group of professional partners, hoping to bring this society and system a brand new social matching platform. We hope that students can find like-minded partners on our platform. On this platform, your major should not be buried. we hope to provide a new environment to help partners in need find a team to join, or find like-minded partners.
+Teamie composed a group of professional partners, hoping to bring this society and system a brand new social matching platform. We hope that students can find like-minded partners on our platform. On this platform, your major should not be buried. we hope to provide a new environment to help partners in need find a team to join, or find like-minded partners.
 
 and my school club: [NCTU Rewards Crowdfunding Club](https://renzeh.github.io/NRCC)
 
