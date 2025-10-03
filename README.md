@@ -11,7 +11,7 @@ Now work at JuYue co.,Ltd as CEO.
 
 Check out my studio Website: [JuYue Design - Official Website](https://Juyue.tw)
 
-2022 New! project [Teamie platform](https://teamie.tw)
+2022  project [Teamie platform](https://teamie.tw)
 
 Teamie composed a group of professional partners, hoping to bring this society and system a brand new social matching platform. We hope that students can find like-minded partners on our platform. On this platform, your major should not be buried. we hope to provide a new environment to help partners in need find a team to join, or find like-minded partners.
 
