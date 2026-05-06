@@ -33,7 +33,7 @@ Taipei · 🎓 M.Des. in Industrial Design @ **NCKU** *(2026–)*
 - **NYCU Vulpes Racing** | Former Team Manager
 - **NYCU Rewards Crowdfunding Club** | Founder
 
-### 🧰 Stack I reach for
+### Stack I reach for
 
 **Code**  
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
@@ -45,7 +45,7 @@ Taipei · 🎓 M.Des. in Industrial Design @ **NCKU** *(2026–)*
 **Design & CAD**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Onshape](https://img.shields.io/badge/Onshape-1A77C9?style=flat-square&logo=onshape&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Affinity](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 
 **Infra & AI**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
