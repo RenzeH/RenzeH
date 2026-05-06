@@ -27,7 +27,7 @@ Taipei · 🎓 M.Des. in Industrial Design @ **NCKU** *(2026–)*
 ### Education & Communities
 
 - **NCKU** | M.Des. — Industrial Design *(2026–)*
-- **NYCU** | B.Des. — Arete Honors Program (CXII)
+- **NYCU** | B.Des. — Arete Honors Program CXII
 - **NYCU Vulpes Racing** | Former Team Manager
 - **NYCU Rewards Crowdfunding Club** | Founder
 
